@@ -1,2 +1,2 @@
-# job-salary-Prediction
+# Job Salary Prediction (Regression problem)
 Regression problem 
